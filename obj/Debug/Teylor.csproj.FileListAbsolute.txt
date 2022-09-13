@@ -1,0 +1,7 @@
+D:\3kyrs1semestr\Teylor\bin\Debug\Teylor.exe.config
+D:\3kyrs1semestr\Teylor\bin\Debug\Teylor.exe
+D:\3kyrs1semestr\Teylor\bin\Debug\Teylor.pdb
+D:\3kyrs1semestr\Teylor\obj\Debug\Teylor.csproj.AssemblyReference.cache
+D:\3kyrs1semestr\Teylor\obj\Debug\Teylor.csproj.CoreCompileInputs.cache
+D:\3kyrs1semestr\Teylor\obj\Debug\Teylor.exe
+D:\3kyrs1semestr\Teylor\obj\Debug\Teylor.pdb
